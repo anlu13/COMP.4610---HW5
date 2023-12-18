@@ -1,6 +1,6 @@
-Website: 
+Website: https://anlu13.github.io/COMP.4610---HW5/
 
-Repo: 
+Repo: https://github.com/anlu13/COMP.4610---HW5
 
 
 Write-up:
